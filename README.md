@@ -1,2 +1,2 @@
 # CPE322
-## Engineering Design VI
+Engineering Design VI
