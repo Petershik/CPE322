@@ -20,11 +20,8 @@ Commands were preformed on my computer.
 ### **git clone**
 ![](Command_Pictures/$gitclone.jpg)
 
-### **cd iot/ls/cd**
+### **cd iot/ls/cd/df**
 ![](Command_Pictures/$cdiot$ls$cd.jpg)
-
-### **df**
-![](Command_Pictures/$df.jpg)
 
 ### **mkdir demo/cd demo**
 ![](Command_Pictures/$mkdirdemo$cddemo.jpg)
