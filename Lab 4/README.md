@@ -3,13 +3,13 @@ I pledge my honor that I have abided by the Stevens Honor System.
 Commands were preformed on my Raspberry Pi 4.
 
 ## Assignment
-![](Command_Pictures/Assignment.jpg)
+![](Images/Assignment.jpg)
 
-## Assignment
-![](Command_Pictures/Weather.jpg)
+## Weather
+![](Images/Weather.jpg)
 
-## Assignment
-![](Command_Pictures/CPU.jpg)
+## CPU
+![](Images/CPU.jpg)
 
-## Assignment
-![](Command_Pictures/Helloworld.jpg)
+## Helloworld
+![](Images/Helloworld.jpg)
