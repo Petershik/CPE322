@@ -5,9 +5,9 @@ Commands were preformed on my Raspberry Pi 4.
 ## Assignment
 ![](Images/Assignment.jpg)
 
-## pubcpu.py
-![](Images/pubcpu.jpg)
-
 ## subcpu.py
 ![](Images/subcpu.jpg)
+
+## pubcpu.py
+![](Images/pubcpu.jpg)
 
