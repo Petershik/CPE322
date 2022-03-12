@@ -17,3 +17,6 @@ Commands were preformed on my Raspberry Pi 4.
 ## http.js
 ![](Images/http.js-term.jpg)
 ![](Images/http.js-web.jpg)
+
+## say_hello.py.jpg
+![](Images/say_hello.py.jpg)
