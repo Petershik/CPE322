@@ -6,14 +6,14 @@ Commands were preformed on my Raspberry Pi 4.
 ![](Images/Assignment.jpg)
 
 ## hello-world.sy
-![](Images/hello-world-term.jpg)
-![](Images/hello-world-web.jpg)
+![](Images/hello-world.sy-term.jpg)
+![](Images/hello-world.sy-web.jpg)
 
 ## hello.sy
-![](Images/hello-term.jpg)
-![](Images/hello-web.jpg)
+![](Images/hello.sy-term.jpg)
+![](Images/hello.sy-web.jpg)
 
 
 ## http.sy
-![](Images/http-term.jpg)
-![](Images/http-web.jpg)
+![](Images/http.sy-term.jpg)
+![](Images/http.sy-web.jpg)
