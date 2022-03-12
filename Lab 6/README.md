@@ -5,15 +5,15 @@ Commands were preformed on my Raspberry Pi 4.
 ## Assignment
 ![](Images/Assignment.jpg)
 
-## hello-world.sy
-![](Images/hello-world.sy-term.jpg)
-![](Images/hello-world.sy-web.jpg)
+## hello-world.js
+![](Images/hello-world.js-term.jpg)
+![](Images/hello-world.js-web.jpg)
 
-## hello.sy
-![](Images/hello.sy-term.jpg)
-![](Images/hello.sy-web.jpg)
+## hello.js
+![](Images/hello.js-term.jpg)
+![](Images/hello.js-web.jpg)
 
 
-## http.sy
-![](Images/http.sy-term.jpg)
-![](Images/http.sy-web.jpg)
+## http.js
+![](Images/http.js-term.jpg)
+![](Images/http.js-web.jpg)
