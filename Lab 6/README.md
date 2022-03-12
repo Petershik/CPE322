@@ -6,7 +6,7 @@ Commands were preformed on my Raspberry Pi 4.
 ![](Images/Assignment.jpg)
 
 ## hello-world.sy
-![](Images/hello-world.sy-term.jpg)
+![](Images/"hello-world.sy-term.jpg")
 ![](Images/hello-world.sy-web.jpg)
 
 ## hello.sy
