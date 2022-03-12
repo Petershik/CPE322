@@ -3,10 +3,10 @@ I pledge my honor that I have abided by the Stevens Honor System.
 Commands were preformed on my Raspberry Pi 4.
 
 ## Assignment
-![](Images/Assigment.jpg)
+![](Images/Assignment.jpg)
 
 ## hello-world.sy
-![](Images/"hello-world.sy-term.jpg")
+![](Images/hello-world.sy-term.jpg)
 ![](Images/hello-world.sy-web.jpg)
 
 ## hello.sy
