@@ -11,5 +11,5 @@ Commands were preformed on my Raspberry Pi 4.
 ## thingspeak website
 ![](Images/thingspeakpic.jpg)
 
-## Google sheet - rpidata
+## cpu_spreadsheet.py
 ![](Images/rpidata.jpg)
