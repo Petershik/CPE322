@@ -8,7 +8,7 @@ Commands were preformed on my Raspberry Pi 4.
 ## thingspeak_feed.py
 ![](Images/thingspeak_feed.py.jpg)
 
-## thingspeak website
+## ThingSpeak website
 ![](Images/thingspeakpic.jpg)
 
 ## cpu_spreadsheet.py
