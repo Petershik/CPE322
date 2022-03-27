@@ -4,3 +4,12 @@ Commands were preformed on my Raspberry Pi 4.
 
 ## Assignment
 ![](Images/Assignment.jpg)
+
+## thingspeak_feed.py
+![](Images/thingspeak_feed.py.jpg)
+
+## thingspeak website
+![](Images/thingspeakpic.jpg)
+
+## Google sheet - rpidata
+![](Images/rpidata.jpg)
