@@ -52,3 +52,4 @@ Commands were preformed on my computer.
 
 ### **netstat**
 ![](Command_Pictures/$netstat.jpg)
+
