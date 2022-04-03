@@ -13,4 +13,3 @@ Commands were preformed on my Raspberry Pi 4.
 
 ## cpu_spreadsheet.py
 ![](Images/rpidata.jpg)
-
