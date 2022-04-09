@@ -4,3 +4,12 @@ Commands were preformed on my Raspberry Pi 4.
 
 ## Assignment
 ![](Images/Assignment.jpg)
+
+## Pinta
+![](Images/pinta.jpg)
+
+## GIMP
+![](Images/gimp.jpg)
+
+## PNG
+![](Images/png.jpg)
