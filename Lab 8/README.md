@@ -5,7 +5,7 @@ Commands were preformed on my Raspberry Pi 4.
 ## Assignment
 ![](Images/Assignment.jpg)
 
-## 
+## plt_final.py
 ![](Images/figure1.jpg)
 
 ![](Images/figure2.jpg)
@@ -17,3 +17,6 @@ Commands were preformed on my Raspberry Pi 4.
 ![](Images/figure5.jpg)
 
 ![](Images/figure6.jpg)
+
+## plt_cv2.py
+![](Images/figure7.jpg)
