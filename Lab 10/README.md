@@ -8,6 +8,11 @@ Commands were preformed on my Raspberry Pi 4.
 ## hash_value.py
 ![](Images/hash_value.py.jpg)
 
+## node_server.py & run_app.py
+![](Images/YourNet.jpg)
+![](Images/block#1.jpg)
+![](Images/YourNet_Post.jpg)
+
 ## snakecoin.py
 ![](Images/snakecoin.py.jpg)
 
