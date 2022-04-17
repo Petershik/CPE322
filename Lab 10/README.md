@@ -8,13 +8,13 @@ Commands were preformed on my Raspberry Pi 4.
 ## hash_value.py
 ![](Images/hash_value.py.jpg)
 
+## snakecoin.py
+![](Images/snakecoin.py.jpg)
+
 ## node_server.py & run_app.py
 ![](Images/YourNet.jpg)
 ![](Images/block1.jpg)
 ![](Images/YourNet_post.jpg)
-
-## snakecoin.py
-![](Images/snakecoin.py.jpg)
 
 ## snakecoin-server-full-code.py
 ![](Images/snakecoinserver.jpg)
