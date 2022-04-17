@@ -11,10 +11,8 @@ Commands were preformed on my Raspberry Pi 4.
 ## snakecoin.py
 ![](Images/snakecoin.py.jpg)
 
-## snakecoinserver
+## snakecoin-server-full-code.py
 ![](Images/snakecoinserver.jpg)
-
-## snakecoinservermien
 ![](Images/snakecoinservermine.jpg)
 
 ## ini_node_info.py
