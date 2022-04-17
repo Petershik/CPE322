@@ -10,7 +10,7 @@ Commands were preformed on my Raspberry Pi 4.
 
 ## node_server.py & run_app.py
 ![](Images/YourNet.jpg)
-![](Images/block#1.jpg)
+![](Images/block1.jpg)
 ![](Images/YourNet_post.jpg)
 
 ## snakecoin.py
