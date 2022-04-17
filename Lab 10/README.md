@@ -15,5 +15,5 @@ Commands were preformed on my Raspberry Pi 4.
 ![](Images/snakecoinserver.jpg)
 ![](Images/snakecoinservermine.jpg)
 
-## ini_node_info.py
-![](Images/ini.jpg)
+## iri_node_info.py
+![](Images/iri.jpg)
